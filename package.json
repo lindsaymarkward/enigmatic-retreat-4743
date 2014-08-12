@@ -1,0 +1,21 @@
+{
+  "name": "enigmatic-retreat-4743",
+  "version": "0.0.0",
+  "description": "node.js test for heroku",
+  "main": "web.js",
+  "dependencies": {
+    "express": "^4.8.3",
+    "grunt": "^0.4.5",
+    "logfmt": "^1.1.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@heroku.com:enigmatic-retreat-4743.git"
+  },
+  "author": "Lindsay Ward",
+  "license": "ISC"
+}
